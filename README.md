@@ -1,4 +1,4 @@
-# 🧠 Quiz Time
+# 🧠 Quiz App
 
 A responsive and interactive quiz application built using **HTML, CSS, and Vanilla JavaScript**. The application challenges users with multiple-choice questions, provides instant feedback, tracks scores in real time, and displays a personalized result based on overall performance.
 
