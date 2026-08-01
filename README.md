@@ -93,7 +93,7 @@ git clone https://github.com/Bhavin-Patel-dev/Quiz-App.git
 ### Navigate to the project folder
 
 ```bash
-cd quiz-time
+cd Quiz-App
 ```
 
 ### Run the project
